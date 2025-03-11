@@ -1,4 +1,4 @@
-[[Layer 2]] [[Layer3]]
+[[Layer 2]] [[Layer 3]]
 [[Hops]]
 
 Has a [[RouterID]]
@@ -18,4 +18,4 @@ Does load-balancing
 
 Weight:
 AD: Administrative Distance (selects smallest possible) -> more important than metric
-Metric: Distance between routers (from protocol)
+Metric: Distance between routers (from protocol)Link-Local :: fe80 ::/10

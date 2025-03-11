@@ -1,5 +1,5 @@
 [[OSPFv2]]
-[[Layer2]] netowrk
+[[Layer 2]] netowork
 IF sends Hello Package and changes from [[Down State]] to [[Init State]]
  - Sends Hello at [[Multicast]]
  In case of answer from another [[Router]] IF changes to [[Two-Way State]]

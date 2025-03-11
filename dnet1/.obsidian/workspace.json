@@ -6,6 +6,7 @@
       {
         "id": "c1f28e03cb853870",
         "type": "tabs",
+        "dimension": 18.4964200477327,
         "children": [
           {
             "id": "6b127849354cfd5a",
@@ -407,6 +408,7 @@
       {
         "id": "071fab14f5b6051b",
         "type": "tabs",
+        "dimension": 81.5035799522673,
         "children": [
           {
             "id": "20d8e15f7abdf3e3",
@@ -414,12 +416,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dijkstra algorithm.md",
+                "file": "Router.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dijkstra algorithm"
+              "title": "Router"
             }
           }
         ]
@@ -495,6 +497,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -504,7 +507,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Router"
             }
           },
           {
@@ -539,13 +542,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dijkstra algorithm.md",
+                "file": "Router.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dijkstra algorithm"
+              "title": "Outline of Router"
             }
           },
           {
@@ -579,34 +582,35 @@
   },
   "active": "6d43608c9eedb20a",
   "lastOpenFiles": [
+    "Layer3.md",
+    "Router.md",
+    "Hello Protocol.md",
+    "Layer2.md",
+    "Layer 2.md",
+    "Layer 1.md",
+    "Linkstate Update.md",
+    "Init State.md",
+    "ExStart State.md",
+    "Down State.md",
+    "Unicast.md",
+    "dijkstra algorithm.md",
+    "Two-Way State.md",
+    "OSPFv3.md",
+    "IPv6.md",
     "Pasted image 20250311101126.png",
     "OSPFv2.md",
-    "dijkstra algorithm.md",
     "OSPF Metrik.md",
-    "Linkstate Update.md",
-    "Hello Protocol.md",
     "RouterID.md",
-    "Router.md",
     "Router Solicitation Message.md",
     "Untitled",
     "HDLC.md",
     "ATM.md",
     "Frame Relay.md",
-    "Layer 1.md",
     "Broadcast.md",
     "IEEE 802.1Q.md",
     "Mac.md",
     "A.md",
-    "C.md",
-    "B.md",
-    "ppp.md",
-    "Ethernet over WAN.md",
-    "Layer3.md",
-    "Layer 2.md",
     "Untitled.canvas",
-    "RIPv2.md",
-    "Subnet.md",
-    "RIPv1.md",
     "Pasted image 20250225102350.png",
     "Pasted image 20250225093218.png",
     "Pasted image 20250225102922.png"
