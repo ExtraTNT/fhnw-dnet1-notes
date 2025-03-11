@@ -1,6 +1,8 @@
 [[Layer 2]] [[Layer3]]
 [[Hops]]
 
+Has a [[RouterID]]
+
 Header Stack
 
 Http
