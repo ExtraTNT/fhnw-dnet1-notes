@@ -144,6 +144,48 @@
             }
           },
           {
+            "id": "0aaea4ec644b94c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSPFv2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSPFv2"
+            }
+          },
+          {
+            "id": "3f13a802da0391e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSPFv2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSPFv2"
+            }
+          },
+          {
+            "id": "978b0cea5c3a2e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSPFv2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSPFv2"
+            }
+          },
+          {
             "id": "8af3052f7eb42609",
             "type": "leaf",
             "state": {
@@ -304,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -421,12 +463,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OSPFv2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OSPFv2"
             }
           },
           {
@@ -444,7 +487,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -458,8 +501,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d43608c9eedb20a",
+  "active": "978b0cea5c3a2e6c",
   "lastOpenFiles": [
+    "OSPFv2.md",
+    "Untitled",
     "Router Solicitation Message.md",
     "HDLC.md",
     "ATM.md",
@@ -486,7 +531,6 @@
     "ICMP IPv4.md",
     "ICMPv6.md",
     "Address Resolution Protocol (ARP).md",
-    "LAN Frames.md",
     "Pasted image 20250225102350.png",
     "Pasted image 20250225093218.png",
     "Pasted image 20250225102922.png"
