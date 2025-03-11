@@ -1,0 +1,380 @@
+{
+  "main": {
+    "id": "751ad8be16fa5849",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1f28e03cb853870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b127849354cfd5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLC Sublayer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLC Sublayer"
+            }
+          },
+          {
+            "id": "e53eaff180930214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WAN Frames.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WAN Frames"
+            }
+          },
+          {
+            "id": "68c89b043f73eba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Address Resolution Protocol (ARP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Address Resolution Protocol (ARP)"
+            }
+          },
+          {
+            "id": "f67cd2ca2aead1f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Address Resolution Protocol (ARP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Address Resolution Protocol (ARP)"
+            }
+          },
+          {
+            "id": "0013ef2ba7d9c15a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPv6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPv6"
+            }
+          },
+          {
+            "id": "534b3d61292a3840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neighbour Discovery Protocol (NDP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neighbour Discovery Protocol (NDP)"
+            }
+          },
+          {
+            "id": "7a615c339dff507b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advertisment Message (ICMPv6).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advertisment Message (ICMPv6)"
+            }
+          },
+          {
+            "id": "51a9e167aef80311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advertisment Message (ICMPv6).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advertisment Message (ICMPv6)"
+            }
+          },
+          {
+            "id": "4eb4f2213d771f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ICMPv6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ICMPv6"
+            }
+          },
+          {
+            "id": "2fedfc014d944a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLAAC Autoconfig.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SLAAC Autoconfig"
+            }
+          },
+          {
+            "id": "96136562d5346562",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "309774432560e0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Layer 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Layer 3"
+            }
+          },
+          {
+            "id": "78ce3546512bdcfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Router.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Router"
+            }
+          },
+          {
+            "id": "a92bdf61dc0fd071",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d244964ad2985927",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ee14d407413c728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1d5ddc38f2a12fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3622ff2f022da81c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "116a9e76e7bc70d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "760c5296d65df40f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de19720a15d50f67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "802454e92939fa92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "63da051a7d5635a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4a0d95b9bd5af538",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dc64defbd9fd1ada",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Address Resolution Protocol (ARP).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Address Resolution Protocol (ARP)"
+            }
+          },
+          {
+            "id": "6d43608c9eedb20a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 750.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6d43608c9eedb20a",
+  "lastOpenFiles": [
+    "LAN Frames.md",
+    "Address Resolution Protocol (ARP).md",
+    "IP.md",
+    "IPv4.md",
+    "Switch.md",
+    "Router.md",
+    "Layer 3.md",
+    "Duplicated Address Detection (DAD).md",
+    "ICMPv6.md",
+    "SLAAC Autoconfig.md",
+    "Pasted image 20250225102350.png",
+    "Pasted image 20250225093218.png",
+    "Neighbour Discovery Protocol (NDP).md",
+    "Multicast.md",
+    "LLC Sublayer.md",
+    "Ethernet.md",
+    "Advertisment Message (ICMPv6).md",
+    "IPv6.md",
+    "Pasted image 20250225102922.png",
+    "VLAN.md",
+    "WAN Frames.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

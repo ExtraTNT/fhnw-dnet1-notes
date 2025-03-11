@@ -1,0 +1,7 @@
+- not for exam
+- takes packages from l3 and splits to frames
+- builds frames
+- handles communication with higher layers
+- sw only
+- error detection
+- flow controll
