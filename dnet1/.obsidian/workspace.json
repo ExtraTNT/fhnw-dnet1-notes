@@ -78,6 +78,86 @@
             }
           },
           {
+            "id": "f34580f5e4826d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autonomous System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autonomous System"
+            }
+          },
+          {
+            "id": "ec981df12d7ba367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RIPv1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RIPv1"
+            }
+          },
+          {
+            "id": "4eeb62bbbb0647bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RIPv1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RIPv1"
+            }
+          },
+          {
+            "id": "cd59b32b963801fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RIPv2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RIPv2"
+            }
+          },
+          {
+            "id": "f9511709d183cb9e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8af3052f7eb42609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ppp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ppp"
+            }
+          },
+          {
             "id": "f67cd2ca2aead1f3",
             "type": "leaf",
             "state": {
@@ -224,7 +304,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -341,13 +421,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Router.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Router"
+              "title": "Outline"
             }
           },
           {
@@ -361,12 +440,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -380,32 +458,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "304a04de1706ed25",
+  "active": "6d43608c9eedb20a",
   "lastOpenFiles": [
-    "NAT.md",
+    "Router Solicitation Message.md",
+    "HDLC.md",
+    "ATM.md",
+    "Frame Relay.md",
+    "Layer 1.md",
+    "Broadcast.md",
+    "IEEE 802.1Q.md",
+    "Mac.md",
+    "A.md",
+    "C.md",
+    "B.md",
+    "ppp.md",
+    "Ethernet over WAN.md",
+    "Layer3.md",
+    "Layer 2.md",
+    "Untitled.canvas",
+    "RIPv2.md",
+    "Subnet.md",
+    "RIPv1.md",
     "Router.md",
+    "Hops.md",
+    "Autonomous System.md",
+    "NAT.md",
     "ICMP IPv4.md",
     "ICMPv6.md",
     "Address Resolution Protocol (ARP).md",
     "LAN Frames.md",
-    "IP.md",
-    "IPv4.md",
-    "Switch.md",
-    "Layer 3.md",
-    "Duplicated Address Detection (DAD).md",
-    "SLAAC Autoconfig.md",
     "Pasted image 20250225102350.png",
     "Pasted image 20250225093218.png",
-    "Neighbour Discovery Protocol (NDP).md",
-    "Multicast.md",
-    "LLC Sublayer.md",
-    "Ethernet.md",
-    "Advertisment Message (ICMPv6).md",
-    "IPv6.md",
-    "Pasted image 20250225102922.png",
-    "VLAN.md",
-    "WAN Frames.md",
-    "Welcome.md",
-    "create a link.md"
+    "Pasted image 20250225102922.png"
   ]
 }
